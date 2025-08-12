@@ -4,6 +4,7 @@ body {
 html, body {
    max-width: 100%;
    overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 hr {
   height: 3px;
@@ -149,4 +150,7 @@ a:hover {
   .quotes {
     font-size: 2rem;
   }
+}
+.questions{
+    font-size: 1rem;
 }
