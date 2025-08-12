@@ -135,3 +135,13 @@ a:hover{
 .hamburger-btn{
     border: solid 1px;
 }
+@media (max-width: 425px){
+    html{
+        font-size: 12px;
+    }
+}
+@media (max-width: 768px){
+    html{
+        font-size: 14px;
+    }
+}
