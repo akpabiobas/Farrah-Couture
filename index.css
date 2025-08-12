@@ -1,8 +1,9 @@
-html {
-  overflow-x: hidden;
-}
 body {
   font-family: 'EB Garamond', serif;
+}
+html, body {
+   max-width: 100%;
+   overflow-x: hidden;
 }
 hr {
   height: 3px;
